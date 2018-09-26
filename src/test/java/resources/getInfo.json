@@ -1,0 +1,83 @@
+tvp_request_getinfo_callback_108716(
+{
+	dltype: 1,
+	exem: 0,
+	fl: {},
+	hs: 0,
+	ip: "220.181.90.242",
+	ls: 0,
+	preview: 87,
+	s: "o",
+	sfl: {},
+	tm: 1487931280,
+	vl: {
+		cnt: 1,
+		vi: [
+			{
+				br: 27,
+				ch: 0,
+				cl: {
+					fc: 0,
+					keyid: "d036598l83v.100701"
+				},
+				ct: 21600,
+				drm: 0,
+				dsb: 0,
+				fclip: 0,
+				fmd5: "86f423ff656786e0e15f6715a3e29c54",
+				fn: "d036598l83v.m701.mp4",
+				fs: 2488968,
+				fst: 5,
+				fvkey: "008F1515F256F8C55CB746390A15456072D8BD335F9C5F89EA444A36373A62B892B5856C57504FF20E913C3723276F201754D69A710140A2A5E3320A08F38D62C1F3B72E9F8E5A82A02B24086F8F2A81A3E7A61223B56BA4",
+				hevc: 0,
+				iflag: 0,
+				level: 0,
+				lnk: "d036598l83v",
+				logo: 1,
+				share: 1,
+				sp: 0,
+				st: 2,
+				td: "87.678",
+				ti: "慈善的三个秘密",
+				type: 3,
+				ul: {
+					ui: [
+						{
+							dt: 2,
+							dtc: 0,
+							url: "http://ugcbsy.qq.com/flv/152/112/",
+							vt: 136
+						},
+						{
+							dt: 2,
+							dtc: 0,
+							url: "http://ugcws.video.gtimg.com/flv/152/112/",
+							vt: 106
+						},
+						{
+							dt: 2,
+							dtc: 0,
+							url: "http://ugcdl.video.gtimg.com/flv/152/112/",
+							vt: 116
+						},
+						{
+							dt: 2,
+							dtc: 10,
+							url: "http://video.dispatch.tc.qq.com/74279280/",
+							vt: 0
+						}
+					]
+				},
+				vh: 272,
+				vid: "d036598l83v",
+				videotype: 0,
+				vst: 2,
+				vw: 480,
+				wl: {
+					wi: [ ]
+				}
+			}
+		]
+	}
+}
+)
